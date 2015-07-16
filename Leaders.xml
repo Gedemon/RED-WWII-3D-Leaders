@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12-Jul-15 00:37:24 -->
+<GameData>
+	<Leaders>
+		<Update>
+			<Where Type="LEADER_BISMARCK"/>
+			<Set>
+				<ArtDefineTag>Hitler_Scene.xml</ArtDefineTag>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="LEADER_ELIZABETH"/>
+			<Set>
+				<ArtDefineTag>Churchill_Scene.xml</ArtDefineTag>
+			</Set>
+		</Update>
+	</Leaders>  
+</GameData>

@@ -1,0 +1,7 @@
+<Asset>
+	<Mesh file="Churchill_scene.gr2"/>
+	<Texture file="Bismarck_Background_DIFF.dds"/>
+	<Texture file="Bismarck_Floor_SREF.dds"/>
+	<Texture file="Bismarck_Objects_DIFF.dds"/>
+</Asset>
+

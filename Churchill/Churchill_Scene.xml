@@ -1,0 +1,5 @@
+<LeaderScene lights="Pedro_Lights.gr2" camera="Brazil_Pedro_Camera.fxsxml" ColorKey="Pedro_COLORKEY.tga" cubemap_prefix="Pedro" FallbackImage="scene_england.dds" PointLightShadowMin="0.01">
+	<LeaderObject model="Churchill.fxsxml"/>
+	<BackgroundObject  model="Churchill_Scene.fxsxml" ></BackgroundObject>
+	<BackgroundObject  model="Brazil_Pedro_Scene_FX.fxsxml" ></BackgroundObject>
+</LeaderScene>
